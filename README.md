@@ -68,9 +68,6 @@ To analyze RSA operation timings:
 python plot_rsa.py
 ```
 
-## Contributing
-
-If you're interested in contributing to the RSA_Timing project, please read `CONTRIBUTING.md` (if you have such a file) or state your guidelines here. Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
 ## License
 
