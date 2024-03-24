@@ -81,7 +81,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Siwei Tan - tswlovexyb@gmail.com
 
 
-
-## Acknowledgments
-
-- Mention any sources, libraries, or individuals that helped you with this project.
